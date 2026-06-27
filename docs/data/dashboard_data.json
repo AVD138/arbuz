@@ -1,10 +1,11 @@
 {
-  "timestamp": "2026-06-26T02:03:39.337139+00:00",
+  "timestamp": "2026-06-27T01:57:45.288145+00:00",
   "repository": "AVD138/arbuz",
   "commits": {
-    "total_commits_90d": 193,
-    "avg_daily": 2.14,
+    "total_commits_90d": 166,
+    "avg_daily": 1.84,
     "daily": {
+      "2026-06-26": 1,
       "2026-06-25": 1,
       "2026-06-24": 1,
       "2026-06-23": 1,
@@ -93,11 +94,10 @@
       "2026-04-01": 1,
       "2026-03-31": 15,
       "2026-03-30": 44,
-      "2026-03-29": 20,
-      "2026-03-28": 28
+      "2026-03-29": 20
     },
     "weekly": {
-      "26": 4,
+      "26": 5,
       "25": 7,
       "24": 7,
       "23": 7,
@@ -110,13 +110,13 @@
       "16": 7,
       "15": 7,
       "14": 64,
-      "13": 48
+      "13": 20
     },
     "top_authors": {
-      "github-actions[bot]": 131,
-      "vovympppro-git": 50,
-      "root": 8,
+      "github-actions[bot]": 124,
+      "vovympppro-git": 36,
       "Vovy111": 3,
+      "root": 2,
       "almaznik1": 1
     }
   },
@@ -144,11 +144,11 @@
     "debt_ratio": 0.0
   },
   "pull_requests": {
-    "merged_90d": 1,
+    "merged_90d": 0,
     "closed_not_merged_90d": 0,
     "open_prs": 0,
-    "merge_rate": 100.0,
-    "avg_pr_size_lines": 3.0,
+    "merge_rate": 0.0,
+    "avg_pr_size_lines": 0.0,
     "prs_with_conflicts": 0
   },
   "issues": {
